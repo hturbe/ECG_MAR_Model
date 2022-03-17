@@ -16,6 +16,6 @@ pip install -r requirements.txt
 ```
 
 ### Results replication
-The results can be replicated using the [main_notebook](main_notebook.ipynb) notebook. This notebook includes the steps to download the raw data, preprocess them as well as the code used to train the models and compute the Shapley values.  
+The results can be replicated using the [main_notebook](main_notebook.ipynb) notebook. The notebook can be opened in Google Colab. It includes the steps to download the raw data, preprocess them as well as the code used to train the models and compute the Shapley values.  
 
 The notebook allows users to specify which disease they wish to train the model on as well as specifying correlation between given leads to generate plots with Shapley values.
