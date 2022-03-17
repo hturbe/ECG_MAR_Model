@@ -4,7 +4,7 @@
 This repository presents an implementation of a ECG classification model based on multivariate autoregressive (MAR) coefficients.  Interpretability of the trained models (LightGBM) on these features is then achieved using Shap.
 
 ## Data
-Data used for this research have been uploaded [here](https://sandbox.zenodo.org/record/1036220#.YjMBknrMJGM). This dataset is a denoised version of the CPSC dataset presented in *Classification of 12-lead ECGs: The PhysioNet/Computing in Cardiology Challenge 20201.* The denoising consists in removing low and high frequency artifacts. More details on the method used are available upon request.
+Data used for this research have been uploaded [here](https://zenodo.org/record/6362422#.YjM4PnrMJGM). This dataset is a denoised version of the CPSC dataset presented in *Classification of 12-lead ECGs: The PhysioNet/Computing in Cardiology Challenge 20201.* The denoising consists in removing low and high frequency artifacts. More details on the method used are available upon request.
 
 ## Usage
 
