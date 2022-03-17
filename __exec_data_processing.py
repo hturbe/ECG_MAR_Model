@@ -41,7 +41,7 @@ def extract_signal_disease():
 
     for snomed_code in dict_snomed.keys():
         disease_name = dict_snomed[snomed_code]
-        print(f"Extracting signal for {disease_name} signal")
+        print(f"Extracting signal for {disease_name} samples")
 
         path_save = os.path.join(path_data, "formatted_data")
 
